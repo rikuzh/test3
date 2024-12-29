@@ -6,5 +6,7 @@ package com.riku.test3;
 public class App {
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        A a = new A();
     }
 }
+
